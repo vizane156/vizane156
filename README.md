@@ -1,6 +1,17 @@
 <div align="center">
+  <table>
+    <tr>
+      <td align="left" valign="middle">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&vCenter=true&width=450&lines=Building+intelligent+digital+products+%F0%9F%9A%80;Full-Stack+Engineer+%26+AI+Builder;Turning+ideas+into+real-world+solutions;Code.+Innovate.+Build.+Repeat.;From+Africa%2C+building+for+the+world+%F0%9F%8C%8D" />
+      </td>
+      <td align="center" valign="middle">
+        <h1>VIZANE <img src="./vizane-liquid-avatar.gif" width="90" align="center" alt="Vizane animated portrait" /></h1>
+      </td>
+    </tr>
+  </table>
+</div>
 
-# VIZANE
+<div align="center">
 
 **Software Engineer • AI Builder • Entrepreneur**
 
